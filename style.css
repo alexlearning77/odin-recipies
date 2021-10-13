@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+h1 {
+    color: red;
+    text-align: center;
+    padding: 20px;
+}
+.main_list {
+    padding: 10px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.main_list > li {
+    text-align: center;
+    padding: 10px;
+}
+.main_list > img {
+    padding: 5px;
+}
