@@ -55,9 +55,7 @@ h1 {
     margin: 10px;
 }
 .content > img {
-    width: 60vw;
     max-width: 600px;
-    height: 60vh;
     max-height: auto;
     border: 1px solid rgba(139, 69, 19, 0.5);
     border-radius: 15px;
