@@ -5,10 +5,15 @@
     color: saddlebrown;
     background-color: blanchedalmond;
 }
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:center;
+    padding: 20px;
+}
 h1 {
     color: red;
-    text-align: center;
-    padding: 20px;
 }
 .main_list {
     display: flex;
