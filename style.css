@@ -16,10 +16,6 @@ h1 {
     color: red;
     margin: auto;
 }
-#back {
-    position: absolute;
-    margin: 20px;
-}
 .main_list {
     display: flex;
     flex-direction: row;
@@ -105,4 +101,8 @@ h1 {
 .minor_dir {
     min-width: 300px;
     margin: 10px;
+}
+#back {
+    position: absolute;
+    margin: 20px;
 }
