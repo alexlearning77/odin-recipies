@@ -70,7 +70,7 @@ h1 {
     -moz-box-shadow: 10px 10px 20px 0px rgba(139, 69, 19, 0.5);
     box-shadow: 10px 10px 20px 0px rgba(139, 69, 19, 0.5);
     transition: ease-in 300ms;
-    margin: 20px;
+    margin: 30px;
 }
 .content h2 {
     margin: 30px auto 10px;
@@ -95,11 +95,11 @@ h1 {
 .minor h3, h4, li {
     margin: 5px;
 }
-.minor_ing {
+.ing {
     min-width: 300px;
     margin: 10px;
 }
-.minor_dir {
+.dir {
     min-width: 300px;
     margin: 10px;
 }
